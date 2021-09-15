@@ -1,0 +1,8 @@
+autosklearn
+tpot
+autoviml
+h2o
+autokeras
+hyperopt
+mxnet
+autogluon
